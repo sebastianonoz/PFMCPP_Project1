@@ -52,85 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Cat
+//  action 1: the cat scratches
+cat.scratches();
+//  action 2: the cat purrs
+cat.purrs();
+//  action 3: the cat hunts
+cat.hunts();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Chef
+//  action 1: the chef cooks food
+chef.cooksFood();
+//  action 2: the chef preps ingredients
+chef.prepsIngredients();
+//  action 3: the chef bakes break
+chef.bakesBread();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Tree
+//  action 1: the tree grows leaves
+tree.growsLeaves();
+//  action 2: the tree bears fruit
+tree.bearsFruit();
+//  action 3: the tree provides shade
+tree.providesShade();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Sunflower
+//  action 1: the sunflower grows
+sunflower.grows();
+//  action 2: the sunflower turns towards sun
+sunflower.turnsTowardsSun();
+//  action 3: the sunflower makes seeds
+sunflower.makesSeeds();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Pen
+//  action 1: the pen writes
+pen.writes();
+//  action 2: the pen clicks open
+pen.clicksOpen();
+//  action 3: the pen is held
+pen.isHeld();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Car
+//  action 1: the car drives
+car.drives();
+//  action 2: the car runs on fuel
+car.runsOnFuel();
+//  action 3: the car brakes
+car.brakes();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Dog
+//  action 1: the dog barks
+dog.barks();
+//  action 2: the dog wags tail
+dog.wagsTail();
+//  action 3: fetches
+dog.fetches();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Customer Profile Manager
+//  action 1: The customer profile manager creates a new customer profile
+customerProfileManager.createCustomerProfile();
+//  action 2: The customer profile manager updates an existing customer's profile information
+customerProfileManager.updateCustomerProfile();
+//  action 3: The customer profile manager removes a customer profile from the system
+customerProfileManager.removeCustomerProfile();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Hammer
+//  action 1: the hammer drives nails
+hammer.drivesNails();
+//  action 2: the hammer pulls nails
+hammer.pullsNails();
+//  action 3: the hammer breaks things
+hammer.breaksThings();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Bicycle
+//  action 1: the bicycle pedals
+bicycle.pedals();
+//  action 2: the bicycle steers
+bicycle.steers();
+//  action 3: the bicycle brakes
+bicycle.brakes();
 
 
 #endif
