@@ -109,13 +109,13 @@ dog.wagsTail();
 //  action 3: fetches
 dog.fetches();
 //  8)
-//  Noun: Customer Profile
-//  action 1: Create a new customer profile
-customerProfile.createCustomerProfile();
-//  action 2: Update an existing customer's profile information
-customerProfile.updateCustomerProfile();
-//  action 3: Remove a customer profile from the system
-customerProfile.removeCustomerProfile();
+//  Noun: Customer Profile Manager
+//  action 1: The customer profile manager creates a new customer profile
+customerProfileManager.createCustomerProfile();
+//  action 2: The customer profile manager updates an existing customer's profile information
+customerProfileManager.updateCustomerProfile();
+//  action 3: The customer profile manager removes a customer profile from the system
+customerProfileManager.removeCustomerProfile();
 //  9)
 //  Noun: Hammer
 //  action 1: the hammer drives nails
