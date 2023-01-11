@@ -109,13 +109,13 @@ dog.wagsTail();
 //  action 3: fetches
 dog.fetches();
 //  8)
-//  Noun: Spoon
-//  action 1: the spoon scoops
-spoon.scoops();
-//  action 2: the spoon stirs
-spoon.stirs();
-//  action 3: the spoon measures
-spoon.measures();
+//  Noun: Customer Profile
+//  action 1: Create a new customer profile
+customerProfile.createCustomerProfile();
+//  action 2: Update an existing customer's profile information
+customerProfile.updateCustomerProfile();
+//  action 3: Remove a customer profile from the system
+customerProfile.removeCustomerProfile();
 //  9)
 //  Noun: Hammer
 //  action 1: the hammer drives nails
